@@ -14,8 +14,5 @@
 logs/
 *.log
 
-# Only ignore specific files/folders in data folder to make it easier to keep
-# track of data sources and processing scripts
-data/kaggle/ethereum-effect-pc-parts/archive.zip
-data/kaggle/ethereum-effect-pc-parts/archive/
-data/scraped
+# Data directory
+data/
