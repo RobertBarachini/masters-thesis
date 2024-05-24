@@ -1,0 +1,5 @@
+{
+	"filepath_log": "data/scraped/pangoly/logs/scheduler.log",
+	"workers_max": 1,
+	"filepath_tasks": "data/scraped/pangoly/index-rr.tasks.json"
+}

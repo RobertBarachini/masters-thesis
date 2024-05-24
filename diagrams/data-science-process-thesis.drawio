@@ -1,0 +1,77 @@
+<mxfile host="65bd71144e">
+    <diagram id="-vx4CNJz0CDndSLK7DA5" name="Page-1">
+        <mxGraphModel dx="1298" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Data science process pipeline in the context of our research" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="84" y="14" width="659" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="177" value="&lt;span style=&quot;&quot;&gt;Process for&lt;br&gt;storage&lt;/span&gt;" style="edgeStyle=none;html=1;strokeColor=#000000;fontColor=#000000;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="170" target="176">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="170" value="&lt;font color=&quot;#000000&quot;&gt;Acquire the data with web scraping and API access&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="226" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" value="&lt;span style=&quot;&quot;&gt;&lt;font&gt;Structured,&lt;br&gt;unstructured&lt;br&gt;multi-modal&lt;br&gt;data&lt;/font&gt;&lt;/span&gt;" style="edgeStyle=none;html=1;strokeColor=#000000;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1" source="173" target="170">
+                    <mxGeometry x="0.1881" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="179" value="Domain&lt;br&gt;knowledge" style="edgeStyle=none;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="173" target="178">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="383" y="121" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="187" value="Added&lt;br&gt;context" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" target="185">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="455" y="95" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="188" value="Added&lt;br&gt;context" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="173" target="176">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="&lt;font color=&quot;#000000&quot;&gt;Internet&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="384" y="65" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="182" value="Repeat" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="176" target="170">
+                    <mxGeometry x="-0.0514" y="-21" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="515" y="319"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="183" value="Repeat" style="edgeStyle=none;curved=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="176" target="178">
+                    <mxGeometry x="-0.0476" y="-38" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="397" y="355"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="186" value="Iteratevely&lt;br&gt;improve" style="edgeStyle=none;curved=1;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="176" target="185">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="176" value="&lt;font color=&quot;#000000&quot;&gt;Process and analyse the data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="579" y="226" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="Determine&lt;br&gt;variables and&lt;br&gt;data sources" style="edgeStyle=none;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="178" target="170">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="178" value="&lt;font color=&quot;#000000&quot;&gt;Study topic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="129" y="226" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="&lt;font color=&quot;#000000&quot;&gt;Interpret the results and create visualizations&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="579" y="65" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="189" value="START" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="69" y="241" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="190" value="END" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="699" y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

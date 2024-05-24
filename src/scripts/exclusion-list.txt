@@ -1,0 +1,8 @@
+masters-thesis/data/keepa/products/domains/
+masters-thesis/data/scraped/camel/search/
+masters-thesis/data/scraped/pangoly/Hardware-and-peripherals/
+masters-thesis/data/scraped/cnet/articles/html/
+masters-thesis/data/scraped/yahoo/crypto/csv/
+masters-thesis/data/scraped/yahoo/stocks/csv/
+masters-thesis/data/scraped/cnet/scheduler_data
+masters-thesis/data/keepa/generated

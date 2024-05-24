@@ -1,0 +1,5 @@
+{
+	"filepath_log": "logs/scheduler.log",
+	"workers_max": 30,
+	"filepath_tasks": "src/py/utils/scheduler/scheduler_tasks.json"
+}

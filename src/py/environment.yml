@@ -1,0 +1,44 @@
+name: thesis
+channels:
+  - conda-forge
+  - defaults
+  - plotly
+dependencies:
+  - python=3.11
+  - pip
+  - yapf
+  - pandas
+  - pyarrow
+  - selenium
+  - python-dotenv
+  - brotli
+  - psutil
+  - matplotlib
+  - numpy
+  - pytesseract
+  - rapidfuzz
+  - boto3
+  - beautifulsoup4
+  - networkx
+  - plotly
+  - nbformat
+  - yfinance
+  - mplfinance
+  - cchardet
+  - charset-normalizer
+  - scipy
+  - ipykernel
+  - pymongo
+  - xldr
+  - openpyxl
+  - geopy
+  - pycountry
+  - nltk
+  - nbstripout
+  - pip:
+      - selenium-wire
+      - browsermob-proxy
+      - opencv-contrib-python
+      - keepa
+      - kaleido
+      - yfinance

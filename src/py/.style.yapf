@@ -1,0 +1,7 @@
+[style]
+based_on_style = google
+# Set indents
+indent_width = 2
+use_tabs = True
+# Column limit
+column_limit = 79

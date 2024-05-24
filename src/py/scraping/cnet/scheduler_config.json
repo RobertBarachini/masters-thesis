@@ -1,0 +1,5 @@
+{
+	"filepath_log": "data/scraped/cnet/logs/scheduler.log",
+	"workers_max": 10,
+	"filepath_tasks": "data/scraped/cnet/index_articles.tasks.json"
+}

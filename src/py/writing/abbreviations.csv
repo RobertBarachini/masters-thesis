@@ -1,0 +1,204 @@
+Abbreviation, English, Slovenian
+GDP, Gross Domestic Product, Bruto domači proizvod
+TSMC, Taiwan Semiconductor Manufacturing Company, Taiwan Semiconductor Manufacturing Company ???
+UMC, United Microelectronics Corporation, United Microelectronics Corporation ???
+SMIC, Semiconductor Manufacturing International Corporation, Semiconductor Manufacturing International Corporation ???
+ASML, ASML Holding, ASML Holding ???
+ZEISS, Carl Zeiss AG, Carl Zeiss AG ???
+US, United States, Združene države Amerike
+MPC, Model Predictive Control, Model prediktivnega nadzora
+AWS, Amazon Web Services, Amazon Web Services
+AI, Artificial Intelligence, Umetna inteligenca
+API, Application Programming Interface, Aplikacijski programski vmesnik
+GPT, Generative Pre-trained Transformer, Generativni predhodno usposobljeni transformator ???
+MIT, Massachusetts Institute of Technology, Tehnološki inštitut Massachusettsa
+URL, Uniform Resource Locator, Enotni lokator vira
+CPU, Central Processing Unit, Centralno procesna enota
+GPU, Graphics Processing Unit, Grafična procesna enota
+RAM, Random Access Memory, Spomin z direktnim dostopom
+PC, Personal Computer, Osebni računalnik
+AMD, Advanced Micro Devices, Advanced Micro Devices ???
+VM, Virtual Machine, Navidezni računalnik
+CSV, Comma-Separated Values, "Vrednosti, ločene z vejico"
+ORC, Optimized Row Columnar, Optimizirana vrstica v stolpcu ???
+JS, JavaScript, JavaScript
+JSON, JavaScript Object Notation, Objektna notacija za JavaScript
+HTML, HyperText Markup Language, Jezik za označevanje nadbesedila
+HTTP, HyperText Transfer Protocol, Protokol za prenos hiperteksta
+HTTPS, HyperText Transfer Protocol Secure, Protokol za varni prenos hiperteksta
+SPA, Single Page Application, Enostranska aplikacija SPA ???
+REST, Representational State Transfer, Aktualni prenos stanja
+UTF, Unicode Transformation Format, Format za pretvorbo Unicode ???
+DRM, Digital Rights Management, Upravljanje pravic digitalnih vsebin
+ID, Identifier, Identifikator
+Ctrl, Control button, Krmilka ???
+OS, Operating System, Operacijski sistem
+CUDA, Compute Unified Device Architecture, Compute Unified Device Architecture ???
+I/O, Input/Output, Vhod/izhod
+VFIO, Virtual Function I/O, Navidezna funkcija V/I
+SR-IOV, Single Root I/O Virtualization, Enokorenska V/I virtualizacija ???
+K, Thousand, Tisoč
+M, Million, Milijon
+B, Billion, Milijarda
+T, Trillion, Bilijon
+KB, Kilobyte, Kilobajt
+MB, Megabyte, Megabajt
+GB, Gigabyte, Gigabajt
+TB, Terabyte, Terabajt
+SSD, Solid State Drive, Negibljivi disk
+HDD, Hard Disk Drive, Trdi disk
+LTS, Long Term Support, Podpora za dolgoročno uporabo
+IP, Internet Protocol, Internetni protokol
+SSH, Secure Shell, SSH protokol 
+CORS, Cross-Origin Resource Sharing, Skupna raba virov med različnimi izvori
+RDP, Remote Desktop Protocol, Protokol oddaljenega namizja
+CLI, Command Line Interface, Ukazna vrstica
+CI/CD, Continuous Integration/Continuous Deployment, Neprekinjena integracija/neprekinjena postavitev
+DevOps, Development and Operations, Razvoj in operacije
+GUI, Graphical User Interface, Grafični uporabniški vmesnik
+VS, Visual Studio, Visual Studio ???
+IDE, Integrated Development Environment, Integrirano razvojno okolje
+UI, User Interface, Uporabniški vmesnik
+PPS, Purchasing Power Standard, Standard kupne moči
+HFCE, Household Final Consumption Expenditure, Končna poraba gospodinjstev
+GIL, Global Interpreter Lock, Globalna ključavnica prevajalnika ???
+REPL, Read-Eval-Print Loop, Zanka Preberi-oceni-izpiši ???
+stdout, Standard Output, Standardni izhod
+stderr, Standard Error, Standardna napaka
+stdin, Standard Input, Standardni vhod
+EOF, End Of File, Konec datoteke
+PY, Python, Python
+VGA, Video Graphics Array, Video grafični vmesnik
+OEM, Original Equipment Manufacturer, Izvirni proizvajalec opreme
+XML, Extensible Markup Language, Razširljiv označevalni jezik
+SEO, Search Engine Optimization, Optimizacija spletnih iskalnikov
+TXT, Text, Besedilo
+VPN, Virtual Private Network, Navidezno zasebno omrežje
+CDN, Content Delivery Network, Omrežje za dostavo vsebin
+DDoS, Distributed Denial of Service, Porazdeljen napad na storitev
+VPC, Virtual Private Cloud, Navidezni zasebni oblak
+IPv4, Internet Protocol version 4, Internetni protokol verzije 4
+IPv6, Internet Protocol version 6, Internetni protokol verzije 6
+LAN, Local Area Network, Lokalno omrežje
+DNS, Domain Name System, Ureditev imen prostorov
+PA-API, Product Advertising API, Vmesnik za oglaševanje izdelkov
+OCR, Optical Character Recognition, Optično prepoznavanje znakov
+ASIN, Amazon Standard Identification Number, Amazon standardna identifikacijska številka
+PNG, Portable Network Graphics, Prenosljiva mrežna grafika
+w, Width, Širina
+h, Height, Višina
+CV, Computer Vision, Računalniški vid
+BGR, Blue Green Red, Modra zelena rdeča
+RGB, Red Green Blue, Rdeča zelena modra
+IMG, Image, Slika
+avg, Average, povprečje
+dict, Dictionary, Slovar
+abs, Absolute, Absolutna vrednost
+min, Minimum, Minimum
+max, Maximum, Maksimum
+NVMe, Non-Volatile Memory Express, Obstojni ekspresni pomnilnik
+PCIe, Peripheral Component Interconnect Express, Vmesnik za periferne komponente
+SATA, Serial Advanced Technology Attachment, Serijski napredni tehnološki priključek
+WD, Western Digital, Western Digital ???
+TSV, Tab-Separated Values, "Vrednosti, ločene s tabulatorjem"
+IMF, International Monetary Fund, Mednarodni denarni sklad
+WB, World Bank, Svetovna banka
+OECD, Organisation for Economic Co-operation and Development, Organizacija za gospodarsko sodelovanje in razvoj
+UN, United Nations, Združeni narodi
+WHO, World Health Organization, Svetovna zdravstvena organizacija
+FRED, Federal Reserve Economic Data, Ekonomski podatki zvezne rezerve
+Eurostat, Statistical Office of the European Union, Statistični urad Evropske unije
+PPP, Purchasing Power Parity, Pariteta kupne moči
+SDMX, Statistical Data and Metadata eXchange, Statistični podatki in metapodatki za izmenjavo
+WEO, World Economic Outlook, Svetovni gospodarski pregled
+PCPIPCH, "Inflation rate, average consumer prices", "Stopnja inflacije, povprečne potrošniške cene"
+COICOP, Classification of Individual Consumption by Purpose, Klasifikacija posamezne porabe po namenu
+EU, European Union, Evropska unija
+ZIP, Zip archive file format, Format arhivske datoteke ZIP
+MIME, Multipurpose Internet Mail Extensions, Večnamenske internetne poštne razširitve
+CPI, Consumer Price Index, Indeks cen potrošnikov
+NPR, National Public Radio, Nacionalni javni radio
+AP, Associated Press, Združena tiskovna agencija
+NYT, New York Times, New York Times ???
+CNET, Computer Network, Computer Network ???
+SVG, Scalable Vector Graphics, Razširljiva vektorska grafika
+DB, Database, Podatkovna baza
+SQL, Structured Query Language, Strukturirani poizvedovalni jezik
+S3, Simple Storage Service, Simple Storage Service
+ETL, "Extract, Transform, Load", "Izvleči, pretvori, naloži ???"
+SaaS, Software as a Service, Programska oprema kot storitev
+PaaS, Platform as a Service, Platforma kot storitev
+IaaS, Infrastructure as a Service, Infrastruktura kot storitev
+CAPTCHA, Completely Automated Public Turing test to tell Computers and Humans Apart, Popolnoma avtomatiziran javni Turingov test za razlikovanje med računalniki in ljudmi
+PoP, Proof of Personhood, Dokaz o človeškosti
+PoW, Proof of Work, Dokaz o delu
+PoS, Proof of Stake, Dokaz o lastništvu
+WEI, Web Environment Integrity, Integriteta spletnega okolja
+IPO, Initial Public Offering, Prva javna ponudba
+NERV, NERV Disaster Prevention App, NERV aplikacija za preprečevanje nesreč
+W3C, World Wide Web Consortium, Svetovni spletni konsorcij
+V, Version, Različica
+PDF, Portable Document Format, Prenosljiv dokumentni format
+Tech, Technology, Tehnologija
+Crypto, Cryptocurrency, Kriptovaluta
+FAH, Folding@home, Folding@home ???
+NASDAQ, National Association of Securities Dealers Automated Quotations, Nacionalno združenje borznih posrednikov avtomatiziranih ponudb
+ATH, All-Time High, Najvišja vrednost vseh časov
+FTX, Futures Exchange, Futures Exchange ???
+USA, United States of America, Združene države Amerike
+DEU, Germany, Nemčija
+GBR, United Kingdom, Združeno kraljestvo
+JPN, Japan, Japonska
+YYYY, Years, Leta
+MM, Months, Meseci
+DD, Days, Dnevi
+SMA, Simple Moving Average, Preprosto drseče povprečje
+EMA, Exponential Moving Average, Eksponentno drseče povprečje
+MACD, Moving Average Convergence Divergence, Konvergenca in divergenca drsečih povprečij
+RSI, Relative Strength Index, Relativni indeks moči ???
+BB, Bollinger Bands, Bollingerjev obroč
+int, Integer, Celo število
+float, Floating Point, Plavajoča vejica
+str, String, Niz
+bool, Boolean, Logična vrednost
+USD, United States Dollar, Ameriški dolar
+Adj, Adjusted, Prilagojeno
+XRP, Ripple, Ripple ???
+ETH, Ethereum, Ethereum
+BTC, Bitcoin, Bitcoin
+USDT, Tether stablecoin, Tether stabilna kriptovaluta
+CLT, Central Limit Theorem, Centralni limitni izrek
+MSRP, Manufacturer's Suggested Retail Price, Priporočena maloprodajna cena proizvajalca
+Q, Quarter, Četrtletje
+FED, Federal Reserve, Zvezna rezerva
+HP, Hewlett-Packard, Hewlett-Packard ???
+df, DataFrame object in Pandas, Objekt DataFrame v Pandas
+NumPy, Numerical Python, Numerični Python
+LED, Light Emitting Diode, Svetleča dioda
+SD, Secure Digital, Secure Digital ???
+I, Index, Indeks
+PIL, Python Imaging Library, Knjižnica za obdelavo slik v Pythonu
+DDR, Double Data Rate, Dvojna hitrost prenosa podatkov
+DRAM, Dynamic Random Access Memory, Dinamični pomnilnik z naključnim dostopom
+NAND, NAND flash memory, NAND pomnilnik
+NIC, Network Interface Controller, Omrežni vmesnik
+ISO, International Organization for Standardization, Mednarodna organizacija za standardizacijo
+XK, Kosovo, Kosovo
+SP.POP.TOTL, Total Population (World Bank), Skupno prebivalstvo (Svetovna banka)
+EMRO, Eastern Mediterranean Region, Vzhodna Sredozemska regija
+EURO, European Region, Evropska regija
+AFRO, African Region, Afriška regija
+WPRO, Western Pacific Region, Zahodnopacifiška regija
+AMRO, Region of the Americas, Ameriška regija
+SEARO, South-East Asia Region, Jugovzhodnoazijska regija
+NLP, Natural Language Processing, Obdelava naravnega jezika
+NLTK, Natural Language Toolkit, Orodje za obdelavo naravnega jezika
+AGI, Artificial General Intelligence, Umetna splošna inteligenca
+LLM, Large Language Model, Velik jezikovni model
+VRAM, Video Random Access Memory, Video pomnilnik z naključnim dostopom
+OSS, Open Source Software, Odprtokodna programska oprema
+FOSS, Free and Open Source Software, Brezplačna in odprtokodna programska oprema
+BI, Business Intelligence, Poslovna inteligenca
+CRM, Customer Relationship Management, Upravljanje odnosov s strankami
+ERP, Enterprise Resource Planning, Načrtovanje virov podjetja
+GFLOPS, Giga Floating Point Operations Per Second, Giga operacij s plavajočo vejico na sekundo

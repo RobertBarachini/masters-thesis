@@ -1,0 +1,313 @@
+<mxfile host="65bd71144e">
+    <diagram id="-vx4CNJz0CDndSLK7DA5" name="Page-1">
+        <mxGraphModel dx="1300" dy="962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Data acquisition process pipelines" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="228" y="10" width="372" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeColor=#1A1A1A;" edge="1" parent="1" source="4" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#000000&quot;&gt;Electronics price trends preliminary investigation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="54" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontColor=#000000;" edge="1" parent="1" source="9" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font color=&quot;#000000&quot;&gt;Create code repository and project structure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="250.5" y="53" width="130.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="11" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font color=&quot;#000000&quot;&gt;Explore Kaggle datasets, perform data recovery, and establish backups&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="410.5" y="53" width="140" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="13" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font color=&quot;#000000&quot;&gt;Create an index scraper for Pangoly product categories&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="587" y="54" width="136" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="15" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="15" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="15" target="39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font color=&quot;#000000&quot;&gt;JSON index containing 10,167 products (22 categories)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="277.5" y="147" width="228" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="17" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;font color=&quot;#000000&quot;&gt;Create a generic scheduler for concurrent task running&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="323.5" y="239" width="136" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="19" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;font color=&quot;#000000&quot;&gt;Write scraper for a single product page and price histories&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="573.5" y="147" width="149.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="21" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="21" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font color=&quot;#000000&quot;&gt;Scrape and parse price history data for 1,909 products from the index&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="573.5" y="239" width="149.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;font color=&quot;#000000&quot;&gt;JSON results for 1,219 products:&lt;br&gt;&lt;br&gt;Processors: 409&lt;br&gt;Graphics cards: 500&lt;br&gt;Memory: 156&lt;br&gt;Solid state drives: 154&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="573.5" y="331" width="149.5" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="30" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="30" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font color=&quot;#000000&quot;&gt;Investigate Amazon PA-API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="332.13" y="331" width="118.75" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="32" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="32" target="39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;font color=&quot;#000000&quot;&gt;Investigate Camelcamecamel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="119.06" y="331" width="118.75" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="34" target="64">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font color=&quot;#000000&quot;&gt;Reverse engineer price history charts data using computer vision and OCR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="239" width="156.87" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="36" target="39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="36" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;font color=&quot;#000000&quot;&gt;Investigate Keepa API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="332.13" y="431" width="118.75" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="39" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;font color=&quot;#000000&quot;&gt;Create a new product index by querying Camelcamelcamel with product titles from the old index&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="77.93" y="423" width="201" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="46" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;font color=&quot;#000000&quot;&gt;JSON index containing 21,930 products (title and ASIN)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="77.93" y="503.13" width="201" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="48" target="51">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#000000&quot;&gt;Query keepa API using 21,930 product ASIN codes for 4 domains&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="311.51" y="503.13" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#000000&quot;&gt;87,682 product objects with product data (title, category, price history, and more) stored in JSON files. Domains: amazon.com, amazon.co.uk, amazon.de, amazon.co.jp&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="498.5" y="489" width="251" height="82" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="54" target="56">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="54" target="60">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="54" target="86">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="54" target="88">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="&lt;font color=&quot;#000000&quot;&gt;Investigate Yahoo Finance&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="104.43" y="599.5" width="114" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="56" target="58">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;font color=&quot;#000000&quot;&gt;Crawl related companies&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="255" y="599.5" width="114" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;font color=&quot;#000000&quot;&gt;Data structure (in JSON format) detailing connections between 50 tech companies&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="405.31" y="591" width="167" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="60" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;font color=&quot;#000000&quot;&gt;Create a Sectors index using a scraper&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="232" y="680.5" width="137" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="62" target="66">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;font color=&quot;#000000&quot;&gt;JSON with a hierarchical tree of 11 sectors with 145 industries with 3,872 companies&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="412" y="669.5" width="160.31" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;font color=&quot;#000000&quot;&gt;Time series price history data for a specific product&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="155" width="156.87" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="66" target="68">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&lt;font color=&quot;#000000&quot;&gt;Create companies index from the hierarchicar tree&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="603" y="591" width="146.5" height="45.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="68" target="70">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="&lt;font color=&quot;#000000&quot;&gt;Add company profile data (address, employees count, ...)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="605" y="665.5" width="144.5" height="45.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="70" target="77">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;font color=&quot;#000000&quot;&gt;JSON index with company and geographic data for 3,872 companies&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="605" y="744" width="147.5" height="45.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="72" target="70">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;font color=&quot;#000000&quot;&gt;Add longitute, latitude, and country using geo services&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="619.91" y="817.63" width="117.69" height="45.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="77" target="80">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="&lt;font color=&quot;#000000&quot;&gt;Download stock data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="486.49" y="747.25" width="75" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;font color=&quot;#000000&quot;&gt;3,872 CSV files with stock data between 2010 and 2023 inclusive&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="447.99" y="812.25" width="152.01" height="56.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="86" target="91">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;font color=&quot;#000000&quot;&gt;Create index with top 8,934 cryptocurrencies&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="176" y="744" width="132" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="88" target="96">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;font color=&quot;#000000&quot;&gt;Download all currency exchange pairs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="75" y="680.5" width="114" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="91" target="94">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="&lt;font color=&quot;#000000&quot;&gt;Download crypto data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="357.37" y="747.25" width="69" height="40.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="&lt;font color=&quot;#000000&quot;&gt;1,063 CSV files with crypto data between 2010 and 2023 inclusive&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="268" y="812" width="158.37" height="56.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="&lt;font color=&quot;#000000&quot;&gt;23 CSV files with currency exchange data between 2010 and 2023 inclusive&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="75" y="812.25" width="167" height="56.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="98" target="100">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="&lt;font color=&quot;#000000&quot;&gt;Investigate IMF data sources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="84.2" y="898" width="97.07" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="100" target="102">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="&lt;font color=&quot;#000000&quot;&gt;Implement API and file downloaders&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="208.28" y="896" width="142" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="&lt;font color=&quot;#000000&quot;&gt;CSV of October 2023 World Economic Outlook database&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="377.27" y="894" width="174" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="104" target="106">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="&lt;font color=&quot;#000000&quot;&gt;Investigate Eurostat data sources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="84.2" y="949" width="154.07" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="106" target="109">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Implement API and file downloaders&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="269.27" y="949" width="142" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;CSV of HICP database&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="443.27" y="949" width="108" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="111" target="114">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="&lt;font color=&quot;#000000&quot;&gt;Investigate WHO data sources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="84.20000000000006" y="1000" width="97.07" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="114" target="117">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="&lt;font color=&quot;#000000&quot;&gt;CSV with weekly Covid data for 234 countries&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="217.21" y="1000" width="133.07" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="117" target="127">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="&lt;font color=&quot;#000000&quot;&gt;CSV with weekly Covid data for 234 countries&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="406.27" y="1000" width="133.07" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="119" target="127">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="&lt;font color=&quot;#000000&quot;&gt;CSV with population data for 266 countries and groups&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="579.81" y="949" width="164" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="122" target="119">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="&lt;font color=&quot;#000000&quot;&gt;Investigate World Bank data sources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="607.27" y="896" width="109.07" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="&lt;font color=&quot;#000000&quot;&gt;CSV with weekly Covid data per 100,000 people&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="586.27" y="1000" width="151.07" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="130" target="131">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="&lt;font color=&quot;#000000&quot;&gt;Investigate potential news data sources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1074" width="99.07" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="131" target="133">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="&lt;font color=&quot;#000000&quot;&gt;Create an indexer for CNET archive / sitemap&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="194.07999999999998" y="1071.5" width="104.49" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="133" target="135">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="&lt;font color=&quot;#000000&quot;&gt;Index with 68,192 news IDs and slugs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="324.58" y="1072.5" width="96.49" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="" style="edgeStyle=none;html=1;strokeColor=#1A1A1A;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="135" target="137">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="&lt;font color=&quot;#000000&quot;&gt;Download all article HTML files using the scheduler with 10 concurrent workers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="447.07" y="1065" width="135" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="&lt;font color=&quot;#000000&quot;&gt;68,154 HTML files parsed to 64,583 raw text files containing only article contents&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009999;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="608.07" y="1066.87" width="148" height="66.25" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,21 @@
+# .private folder
+.private
+
+# .trash folder (simulates recycle bin)
+.trash
+
+# .env file
+.env
+
+# Ignore .pyc files for now
+*.pyc
+
+# All .log files
+logs/
+*.log
+
+# Only ignore specific files/folders in data folder to make it easier to keep
+# track of data sources and processing scripts
+data/kaggle/ethereum-effect-pc-parts/archive.zip
+data/kaggle/ethereum-effect-pc-parts/archive/
+data/scraped

@@ -1,0 +1,32 @@
+{
+	// Default settings
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": false,
+	"editor.tabSize": 2,
+	// Python settings
+	"[python]": {
+		"editor.defaultFormatter": "eeyore.yapf",
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": false,
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit"
+		},
+	},
+	"yapf.args": [
+		"--style",
+		"${workspaceFolder}/src/py/.style.yapf"
+	],
+	"python.formatting.provider": "yapf",
+	"python.formatting.yapfArgs": [
+		"--style",
+		"${workspaceFolder}/src/py/.style.yapf"
+	],
+	"python.linting.enabled": true,
+	"python.analysis.typeCheckingMode": "basic",
+	"jupyter.notebookFileRoot": "${workspaceFolder}",
+	"cSpell.words": [
+		"keepa",
+		"ndarray"
+	],
+}
